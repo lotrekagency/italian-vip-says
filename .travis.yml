@@ -13,4 +13,4 @@ install:
 
 script: nosetests --with-coverage --cover-package=italian_vip_says
 
-after_success: coveralls
+after_success: codecov
