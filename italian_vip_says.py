@@ -1,5 +1,6 @@
 import string
 
+
 #VIP Charset mapping
 jovanotti_charsmap = {'s': 'f','S':'F',
                      'z': 'ff','Z':'FF'}

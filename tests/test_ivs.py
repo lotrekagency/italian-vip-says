@@ -23,6 +23,7 @@ class ItalianVipSaysTestCase(unittest.TestCase):
         self.assertNotEqual('Sassi',jovanotty('Sassi'))
         self.assertNotEqual('Sei6',cottanzo('Sei6'))
 
+
 class EngineTestCase(unittest.TestCase):
 
     def test_replace(self):
