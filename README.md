@@ -1,4 +1,4 @@
-#Italian Vip Says
+# Italian Vip Says
 
 **Cottanzo**: Ciao Jovy, come ttai?
 
@@ -6,7 +6,7 @@
 
 * * *
 
-###Use it ✌🏻
+### Use it ✌🏻
 ```py
 from italian_vip_says import cottanzo, jovanotty
 
@@ -19,7 +19,7 @@ cottanzo('Sono solo stasera a Sassuolo')
 ```
 
 
-###Test it 💪🏻
+### Test it 💪🏻
 ```sh
 pip install -r tests/requirements.py
 nosetests --with-coverage --cover-package=italian_vip_says
