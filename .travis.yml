@@ -11,6 +11,6 @@ python:
 install:
   - pip install -r italian_vip_says/tests/requirements.py
 
-script: nosetests --with-coverage --cover-package=italian_vip_says/italian_vip_says
+script: nosetests --with-coverage --cover-package=italian_vip_says
 
 after_success: codecov
