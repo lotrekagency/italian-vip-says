@@ -3,7 +3,6 @@
 [![Build Status](https://travis-ci.org/lotrekagency/italian-vip-says.svg?branch=master)](https://travis-ci.org/lotrekagency/italian-vip-says)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Owanesh/italian-vip-says/blob/master/LICENSE)
 
-
 **Cottanzo**: Ciao Jovy, come ttai?
 
 **Jovanotty** : Fto bene, graffie. Fono folo un poco ftanco, vengo da Faffari
