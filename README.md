@@ -1,5 +1,5 @@
 # Italian Vip Says
-[![codecov](https://codecov.io/gh/Owanesh/italian-vip-says/branch/master/graph/badge.svg)](https://codecov.io/gh/Owanesh/italian-vip-says) 
+[![codecov](https://codecov.io/gh/lotrekagency/italian-vip-says/branch/master/graph/badge.svg)](https://codecov.io/gh/lotrekagency/italian-vip-says)
 [![Build Status](https://travis-ci.org/lotrekagency/italian-vip-says.svg?branch=master)](https://travis-ci.org/lotrekagency/italian-vip-says)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Owanesh/italian-vip-says/blob/master/LICENSE)
 
