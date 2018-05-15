@@ -25,9 +25,9 @@ cottanzo('Sono solo stasera a Sassuolo')
 
 ### Test it 💪🏻
 ```sh
-pip install -r tests/requirements.py
-nosetests --with-coverage --cover-package=italian_vip_says
+pip install -r requirements-dev.txt
 
+pytest -s --cov italian_vip_says
 ```
 
 
