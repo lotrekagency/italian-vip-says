@@ -9,6 +9,6 @@ install:
   - pip install -r requirements-dev.txt
 
 script:
-  - flake8 djlotrek
-  - ./runtests.py --with-coverage
+  - flake8 italian_vip_says
+  - pytest -s --cov italian_vip_says
   - codecov
