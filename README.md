@@ -10,6 +10,10 @@
 
 * * *
 
+### Install
+
+    pip install italian_vip_says
+
 ### Use it ✌🏻
 ```py
 from italian_vip_says import cottanzo, jovanotty
